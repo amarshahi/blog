@@ -1,0 +1,11 @@
+title: Togglecorp Blog
+email: blog@togglecorp.com
+description: >-
+  [WIP] Togglecorp Offical Blog
+baseurl: "/"
+url: "https://blog.togglecorp.com"
+github_username:  toggle-corp
+
+# Build settings
+markdown: kramdown
+theme: minima
